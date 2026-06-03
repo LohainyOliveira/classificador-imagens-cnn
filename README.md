@@ -163,7 +163,7 @@ http://localhost:5173
 ## Integrantes
 
 * Lohainy Teixeira dos Santos Oliveira
-* Nome do integrante
+* Humberto Moreira
 
 ---
 
